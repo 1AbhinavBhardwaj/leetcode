@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
