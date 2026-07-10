@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0027-remove-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
