@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
