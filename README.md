@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0344-reverse-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
