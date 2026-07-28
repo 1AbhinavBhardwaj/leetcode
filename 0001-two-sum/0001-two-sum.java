@@ -10,7 +10,3 @@ class Solution {
         return new int[0];
     }
 }
-//first question of leetcode
-
-
-
