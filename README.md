@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/1AbhinavBhardwaj/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
